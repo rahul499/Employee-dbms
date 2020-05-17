@@ -242,7 +242,7 @@ border:5px solid black;
 
                     <div class="form-row">
                         <label>
-                            <span>Mobile</span>
+                            <span>Mobile No.</span>
                             <input type="number" name="mobile" pattern="[0-9]{10}" required>
                         </label>
                     </div>
@@ -285,6 +285,7 @@ border:5px solid black;
                         </label>
                     </div>
 
+                    
                     <div class="form-row">
                         <button type="submit">Register</button>
                     </div><br>
