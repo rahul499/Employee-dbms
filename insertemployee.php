@@ -19,6 +19,7 @@ background-size: cover;
 
 .form1{
     position: relative;
+    
     display: inline-block;
     vertical-align: top;
     margin-right: 130px;
