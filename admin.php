@@ -17,6 +17,7 @@ $nums = mysqli_num_rows($query);
 
 <style>
 .header {
+  
 padding: 50px;
 font-size: 50px;
 text-align: center;
