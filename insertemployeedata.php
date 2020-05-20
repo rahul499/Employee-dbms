@@ -15,7 +15,6 @@
  $query = " insert into emp_data (id, name, dob, mobile, address, salary, qualification, job, joindate)
  values ('$id', $name', '$dob', '$mobile', '$address', '$salary', '$qualification', '$job', '$joindate') ";
 
-
     mysqli_query($con, $query);
 
     header('location:insertemployee.php');
