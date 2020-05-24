@@ -263,8 +263,6 @@ border:5px solid black;
                         </label>
                     </div>
 
-                    
-
                     <div class="form-row">
                         <label>
                             <span>Qualification</span>
