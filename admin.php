@@ -9,7 +9,6 @@ $query = mysqli_query($con, $sql);
 $nums = mysqli_num_rows($query);
 
 ?>
-
 <!DOCTYPE html>
 <html>
 <head>
