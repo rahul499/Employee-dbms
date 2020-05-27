@@ -86,6 +86,7 @@ return false;
 else if(username == "hr" && password == "hr")
 {
     alert ("Login successfull");
+    
 window.location = "hr.php"; 
 return false;
 }
